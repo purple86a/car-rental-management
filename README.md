@@ -35,8 +35,8 @@ the project contains authentication, autherization, CRUD operations on a No-SQL 
 
 ### Prerequisites
 Ensure you have the following:
-- 🐍 Python 3.9 or above
-<br> and check out the `requirments.txt` file!!!
+- 🐍 Python 3.9 or above <br>
+and check out the `requirments.txt` file!!!
 
 ### Steps
 1. Clone the repository:
